@@ -10,3 +10,6 @@ Le programme en Python, très basique, se connecte à l'appareil, passe la conne
 Le code est commenté, et mon site web contient quelques explications sur le protocole. 
 
 Le code fonctionne aussi avec un Fujifilm DX-7 et sûrement d'autres appareils. 
+
+L'usage est basique : python QuickTake.py 
+Les images sont sauvées dans le dossier courant
